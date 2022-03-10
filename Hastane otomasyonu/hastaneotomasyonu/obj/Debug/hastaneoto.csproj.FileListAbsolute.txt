@@ -1,0 +1,300 @@
+C:\Users\PC\Desktop\hastaneoto\bin\Debug\hastaneoto.exe.config
+C:\Users\PC\Desktop\hastaneoto\bin\Debug\hastaneoto.exe
+C:\Users\PC\Desktop\hastaneoto\bin\Debug\hastaneoto.pdb
+C:\Users\PC\Desktop\hastaneoto\obj\Debug\hastaneoto.AdminEkranı.resources
+C:\Users\PC\Desktop\hastaneoto\obj\Debug\hastaneoto.AdminGirişPaneli.resources
+C:\Users\PC\Desktop\hastaneoto\obj\Debug\hastaneoto.anaekran.resources
+C:\Users\PC\Desktop\hastaneoto\obj\Debug\hastaneoto.DoktorGirişEkranı.resources
+C:\Users\PC\Desktop\hastaneoto\obj\Debug\hastaneoto.HastaGirişPaneli.resources
+C:\Users\PC\Desktop\hastaneoto\obj\Debug\hastaneoto.Properties.Resources.resources
+C:\Users\PC\Desktop\hastaneoto\obj\Debug\hastaneoto.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\hastaneoto\obj\Debug\hastaneoto.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\hastaneoto\obj\Debug\hastaneoto.exe
+C:\Users\PC\Desktop\hastaneoto\obj\Debug\hastaneoto.pdb
+C:\Users\PC\Desktop\hastaneoto\obj\Debug\hastaneoto.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\hastaneoto\obj\Debug\hastaneoto.DoktorEkle.resources
+C:\Users\PC\Desktop\hastaneoto\obj\Debug\hastaneoto.Doktorrandevuları.resources
+C:\Users\PC\Desktop\hastaneoto\obj\Debug\hastaneoto.HastaneEkleSil.resources
+C:\Users\PC\Desktop\hastaneoto\obj\Debug\hastaneoto.NakilGönder.resources
+C:\Users\PC\Desktop\hastaneoto\obj\Debug\hastaneoto.RandevuAl.resources
+C:\Users\PC\Desktop\hastaneoto\obj\Debug\hastaneoto.RandevuİptalEt.resources
+C:\Users\PC\Desktop\hastaneoto\obj\Debug\hastaneoto.Röntgenİste.resources
+C:\Users\PC\Desktop\hastaneoto\obj\Debug\hastaneoto.TaburcuEt.resources
+C:\Users\PC\Desktop\hastaneoto\obj\Debug\hastaneoto.Tahlilİste.resources
+C:\Users\PC\Desktop\hastaneoto\obj\Debug\hastaneoto.YatışVer.resources
+C:\Users\PC\Desktop\hastaneoto\obj\Debug\hastaneoto.ÜyeOl.resources
+C:\Users\PC\Desktop\hastaneoto\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\PC\Desktop\hastaneoto\bin\Debug\Google.Protobuf.dll
+C:\Users\PC\Desktop\hastaneoto\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\PC\Desktop\hastaneoto\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\PC\Desktop\hastaneoto\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\PC\Desktop\hastaneoto\bin\Debug\MySql.Data.dll
+C:\Users\PC\Desktop\hastaneoto\bin\Debug\System.Buffers.dll
+C:\Users\PC\Desktop\hastaneoto\bin\Debug\System.Memory.dll
+C:\Users\PC\Desktop\hastaneoto\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC\Desktop\hastaneoto\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC\Desktop\hastaneoto\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\PC\Desktop\hastaneoto\bin\Debug\Zstandard.Net.dll
+C:\Users\PC\Desktop\hastaneoto\bin\Debug\Google.Protobuf.pdb
+C:\Users\PC\Desktop\hastaneoto\bin\Debug\Google.Protobuf.xml
+C:\Users\PC\Desktop\hastaneoto\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\PC\Desktop\hastaneoto\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\PC\Desktop\hastaneoto\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\PC\Desktop\hastaneoto\bin\Debug\MySql.Data.xml
+C:\Users\PC\Desktop\hastaneoto\bin\Debug\System.Buffers.xml
+C:\Users\PC\Desktop\hastaneoto\bin\Debug\System.Memory.xml
+C:\Users\PC\Desktop\hastaneoto\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC\Desktop\hastaneoto\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC\Desktop\hastaneoto\obj\Debug\hastaneoto.csproj.CopyComplete
+C:\Users\PC\Desktop\hastaneoto\obj\Debug\hastaneoto.KlinikEkleSil.resources
+C:\Users\PC\Desktop\hastaneotomasyonu\hastaneoto\bin\Debug\hastaneoto.exe.config
+C:\Users\PC\Desktop\hastaneotomasyonu\hastaneoto\bin\Debug\hastaneoto.exe
+C:\Users\PC\Desktop\hastaneotomasyonu\hastaneoto\bin\Debug\hastaneoto.pdb
+C:\Users\PC\Desktop\hastaneotomasyonu\hastaneoto\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\PC\Desktop\hastaneotomasyonu\hastaneoto\bin\Debug\Google.Protobuf.dll
+C:\Users\PC\Desktop\hastaneotomasyonu\hastaneoto\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\PC\Desktop\hastaneotomasyonu\hastaneoto\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\PC\Desktop\hastaneotomasyonu\hastaneoto\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\PC\Desktop\hastaneotomasyonu\hastaneoto\bin\Debug\System.Buffers.dll
+C:\Users\PC\Desktop\hastaneotomasyonu\hastaneoto\bin\Debug\System.Memory.dll
+C:\Users\PC\Desktop\hastaneotomasyonu\hastaneoto\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC\Desktop\hastaneotomasyonu\hastaneoto\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC\Desktop\hastaneotomasyonu\hastaneoto\bin\Debug\Google.Protobuf.pdb
+C:\Users\PC\Desktop\hastaneotomasyonu\hastaneoto\bin\Debug\Google.Protobuf.xml
+C:\Users\PC\Desktop\hastaneotomasyonu\hastaneoto\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\PC\Desktop\hastaneotomasyonu\hastaneoto\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\PC\Desktop\hastaneotomasyonu\hastaneoto\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\PC\Desktop\hastaneotomasyonu\hastaneoto\bin\Debug\System.Buffers.xml
+C:\Users\PC\Desktop\hastaneotomasyonu\hastaneoto\bin\Debug\System.Memory.xml
+C:\Users\PC\Desktop\hastaneotomasyonu\hastaneoto\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC\Desktop\hastaneotomasyonu\hastaneoto\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC\Desktop\hastaneotomasyonu\hastaneoto\obj\Debug\hastaneoto.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\hastaneotomasyonu\hastaneoto\obj\Debug\hastaneoto.AdminEkleSil.resources
+C:\Users\PC\Desktop\hastaneotomasyonu\hastaneoto\obj\Debug\hastaneoto.AdminEkranı.resources
+C:\Users\PC\Desktop\hastaneotomasyonu\hastaneoto\obj\Debug\hastaneoto.AdminGirişPaneli.resources
+C:\Users\PC\Desktop\hastaneotomasyonu\hastaneoto\obj\Debug\hastaneoto.Anaekran.resources
+C:\Users\PC\Desktop\hastaneotomasyonu\hastaneoto\obj\Debug\hastaneoto.DoktorEkle.resources
+C:\Users\PC\Desktop\hastaneotomasyonu\hastaneoto\obj\Debug\hastaneoto.DoktorGirişEkranı.resources
+C:\Users\PC\Desktop\hastaneotomasyonu\hastaneoto\obj\Debug\hastaneoto.Doktorrandevuları.resources
+C:\Users\PC\Desktop\hastaneotomasyonu\hastaneoto\obj\Debug\hastaneoto.HastaGirişPaneli.resources
+C:\Users\PC\Desktop\hastaneotomasyonu\hastaneoto\obj\Debug\hastaneoto.HastaneEkleSil.resources
+C:\Users\PC\Desktop\hastaneotomasyonu\hastaneoto\obj\Debug\hastaneoto.KlinikEkleSil.resources
+C:\Users\PC\Desktop\hastaneotomasyonu\hastaneoto\obj\Debug\hastaneoto.NakilGönder.resources
+C:\Users\PC\Desktop\hastaneotomasyonu\hastaneoto\obj\Debug\hastaneoto.Properties.Resources.resources
+C:\Users\PC\Desktop\hastaneotomasyonu\hastaneoto\obj\Debug\hastaneoto.RandevuAl.resources
+C:\Users\PC\Desktop\hastaneotomasyonu\hastaneoto\obj\Debug\hastaneoto.RandevuİptalEt.resources
+C:\Users\PC\Desktop\hastaneotomasyonu\hastaneoto\obj\Debug\hastaneoto.Röntgenİste.resources
+C:\Users\PC\Desktop\hastaneotomasyonu\hastaneoto\obj\Debug\hastaneoto.TaburcuEt.resources
+C:\Users\PC\Desktop\hastaneotomasyonu\hastaneoto\obj\Debug\hastaneoto.Tahlilİste.resources
+C:\Users\PC\Desktop\hastaneotomasyonu\hastaneoto\obj\Debug\hastaneoto.YatışVer.resources
+C:\Users\PC\Desktop\hastaneotomasyonu\hastaneoto\obj\Debug\hastaneoto.ÜyeOl.resources
+C:\Users\PC\Desktop\hastaneotomasyonu\hastaneoto\obj\Debug\hastaneoto.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\hastaneotomasyonu\hastaneoto\obj\Debug\hastaneoto.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\hastaneotomasyonu\hastaneoto\obj\Debug\hastaneoto.csproj.CopyComplete
+C:\Users\PC\Desktop\hastaneotomasyonu\hastaneoto\obj\Debug\hastaneoto.exe
+C:\Users\PC\Desktop\hastaneotomasyonu\hastaneoto\obj\Debug\hastaneoto.pdb
+C:\Users\PC\Desktop\hastaneotomasyonu\hastaneoto\obj\Debug\hastaneoto.KanTahlili.resources
+C:\Users\PC\Desktop\hastaneotomasyonu\hastaneoto\obj\Debug\hastaneoto.GAitatahlili.resources
+C:\Users\PC\Desktop\hastaneotomasyonu\hastaneoto\obj\Debug\hastaneoto.İdrarTahlili_iste.resources
+C:\Users\PC\Desktop\hastaneotomasyonu\hastaneoto\bin\Debug\anaekran.resx
+C:\Users\PC\Desktop\hastaneotomasyonu\hastaneoto\bin\Debug\anaekran.cs
+C:\Users\PC\Desktop\hastaneotomasyonu\hastaneoto\bin\Debug\anaekran.Designer.cs
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\hastaneoto\bin\Debug\anaekran.resx
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\hastaneoto\bin\Debug\anaekran.cs
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\hastaneoto\bin\Debug\anaekran.Designer.cs
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\hastaneoto\bin\Debug\hastaneoto.exe.config
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\hastaneoto\bin\Debug\hastaneoto.exe
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\hastaneoto\bin\Debug\hastaneoto.pdb
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\hastaneoto\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\hastaneoto\bin\Debug\Google.Protobuf.dll
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\hastaneoto\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\hastaneoto\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\hastaneoto\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\hastaneoto\bin\Debug\System.Buffers.dll
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\hastaneoto\bin\Debug\System.Memory.dll
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\hastaneoto\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\hastaneoto\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\hastaneoto\bin\Debug\Google.Protobuf.pdb
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\hastaneoto\bin\Debug\Google.Protobuf.xml
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\hastaneoto\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\hastaneoto\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\hastaneoto\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\hastaneoto\bin\Debug\System.Buffers.xml
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\hastaneoto\bin\Debug\System.Memory.xml
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\hastaneoto\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\hastaneoto\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\hastaneoto\obj\Debug\hastaneoto.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\hastaneoto\obj\Debug\hastaneoto.AdminEkleSil.resources
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\hastaneoto\obj\Debug\hastaneoto.AdminEkranı.resources
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\hastaneoto\obj\Debug\hastaneoto.AdminGirişPaneli.resources
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\hastaneoto\obj\Debug\hastaneoto.Anaekran.resources
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\hastaneoto\obj\Debug\hastaneoto.DoktorEkle.resources
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\hastaneoto\obj\Debug\hastaneoto.DoktorGirişEkranı.resources
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\hastaneoto\obj\Debug\hastaneoto.Doktorrandevuları.resources
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\hastaneoto\obj\Debug\hastaneoto.GAitatahlili.resources
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\hastaneoto\obj\Debug\hastaneoto.HastaGirişPaneli.resources
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\hastaneoto\obj\Debug\hastaneoto.HastaneEkleSil.resources
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\hastaneoto\obj\Debug\hastaneoto.KanTahlili.resources
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\hastaneoto\obj\Debug\hastaneoto.KlinikEkleSil.resources
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\hastaneoto\obj\Debug\hastaneoto.NakilGönder.resources
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\hastaneoto\obj\Debug\hastaneoto.Properties.Resources.resources
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\hastaneoto\obj\Debug\hastaneoto.RandevuAl.resources
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\hastaneoto\obj\Debug\hastaneoto.RandevuİptalEt.resources
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\hastaneoto\obj\Debug\hastaneoto.Röntgenİste.resources
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\hastaneoto\obj\Debug\hastaneoto.TaburcuEt.resources
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\hastaneoto\obj\Debug\hastaneoto.Tahlilİste.resources
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\hastaneoto\obj\Debug\hastaneoto.YatışVer.resources
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\hastaneoto\obj\Debug\hastaneoto.ÜyeOl.resources
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\hastaneoto\obj\Debug\hastaneoto.İdrarTahlili_iste.resources
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\hastaneoto\obj\Debug\hastaneoto.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\hastaneoto\obj\Debug\hastaneoto.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\hastaneoto\obj\Debug\hastaneoto.csproj.CopyComplete
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\hastaneoto\obj\Debug\hastaneoto.exe
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\hastaneoto\obj\Debug\hastaneoto.pdb
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\bin\Debug\anaekran.resx
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\bin\Debug\anaekran.cs
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\bin\Debug\anaekran.Designer.cs
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\bin\Debug\hastaneoto.exe.config
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\bin\Debug\hastaneoto.exe
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\bin\Debug\hastaneoto.pdb
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\bin\Debug\Google.Protobuf.dll
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\bin\Debug\System.Buffers.dll
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\bin\Debug\System.Memory.dll
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\bin\Debug\Google.Protobuf.pdb
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\bin\Debug\Google.Protobuf.xml
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\bin\Debug\System.Buffers.xml
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\bin\Debug\System.Memory.xml
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\obj\Debug\hastaneoto.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\obj\Debug\hastaneoto.AdminEkleSil.resources
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\obj\Debug\hastaneoto.AdminEkranı.resources
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\obj\Debug\hastaneoto.AdminGirişPaneli.resources
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\obj\Debug\hastaneoto.Anaekran.resources
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\obj\Debug\hastaneoto.DoktorEkle.resources
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\obj\Debug\hastaneoto.DoktorGirişEkranı.resources
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\obj\Debug\hastaneoto.Doktorrandevuları.resources
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\obj\Debug\hastaneoto.HastaGirişPaneli.resources
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\obj\Debug\hastaneoto.HastaneEkleSil.resources
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\obj\Debug\hastaneoto.KlinikEkleSil.resources
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\obj\Debug\hastaneoto.NakilGönder.resources
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\obj\Debug\hastaneoto.Properties.Resources.resources
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\obj\Debug\hastaneoto.RandevuAl.resources
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\obj\Debug\hastaneoto.RandevuİptalEt.resources
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\obj\Debug\hastaneoto.Röntgenİste.resources
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\obj\Debug\hastaneoto.TaburcuEt.resources
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\obj\Debug\hastaneoto.Tahlilİste.resources
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\obj\Debug\hastaneoto.YatışVer.resources
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\obj\Debug\hastaneoto.ÜyeOl.resources
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\obj\Debug\hastaneoto.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\obj\Debug\hastaneoto.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\obj\Debug\hastaneoto.csproj.CopyComplete
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\obj\Debug\hastaneoto.exe
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\hastaneotomasyonu\obj\Debug\hastaneoto.pdb
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\Hastane otomasyonu\hastaneotomasyonu\bin\Debug\anaekran.resx
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\Hastane otomasyonu\hastaneotomasyonu\bin\Debug\anaekran.cs
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\Hastane otomasyonu\hastaneotomasyonu\bin\Debug\anaekran.Designer.cs
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\Hastane otomasyonu\hastaneotomasyonu\bin\Debug\hastaneoto.exe.config
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\Hastane otomasyonu\hastaneotomasyonu\bin\Debug\hastaneoto.exe
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\Hastane otomasyonu\hastaneotomasyonu\bin\Debug\hastaneoto.pdb
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\Hastane otomasyonu\hastaneotomasyonu\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\Hastane otomasyonu\hastaneotomasyonu\bin\Debug\Google.Protobuf.dll
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\Hastane otomasyonu\hastaneotomasyonu\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\Hastane otomasyonu\hastaneotomasyonu\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\Hastane otomasyonu\hastaneotomasyonu\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\Hastane otomasyonu\hastaneotomasyonu\bin\Debug\System.Buffers.dll
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\Hastane otomasyonu\hastaneotomasyonu\bin\Debug\System.Memory.dll
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\Hastane otomasyonu\hastaneotomasyonu\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\Hastane otomasyonu\hastaneotomasyonu\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\Hastane otomasyonu\hastaneotomasyonu\bin\Debug\Google.Protobuf.pdb
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\Hastane otomasyonu\hastaneotomasyonu\bin\Debug\Google.Protobuf.xml
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\Hastane otomasyonu\hastaneotomasyonu\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\Hastane otomasyonu\hastaneotomasyonu\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\Hastane otomasyonu\hastaneotomasyonu\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\Hastane otomasyonu\hastaneotomasyonu\bin\Debug\System.Buffers.xml
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\Hastane otomasyonu\hastaneotomasyonu\bin\Debug\System.Memory.xml
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\Hastane otomasyonu\hastaneotomasyonu\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\Hastane otomasyonu\hastaneotomasyonu\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\Hastane otomasyonu\hastaneotomasyonu\obj\Debug\hastaneoto.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\Hastane otomasyonu\hastaneotomasyonu\obj\Debug\hastaneoto.AdminEkleSil.resources
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\Hastane otomasyonu\hastaneotomasyonu\obj\Debug\hastaneoto.AdminEkranı.resources
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\Hastane otomasyonu\hastaneotomasyonu\obj\Debug\hastaneoto.AdminGirişPaneli.resources
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\Hastane otomasyonu\hastaneotomasyonu\obj\Debug\hastaneoto.Anaekran.resources
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\Hastane otomasyonu\hastaneotomasyonu\obj\Debug\hastaneoto.DoktorEkle.resources
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\Hastane otomasyonu\hastaneotomasyonu\obj\Debug\hastaneoto.DoktorGirişEkranı.resources
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\Hastane otomasyonu\hastaneotomasyonu\obj\Debug\hastaneoto.Doktorrandevuları.resources
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\Hastane otomasyonu\hastaneotomasyonu\obj\Debug\hastaneoto.HastaGirişPaneli.resources
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\Hastane otomasyonu\hastaneotomasyonu\obj\Debug\hastaneoto.HastaneEkleSil.resources
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\Hastane otomasyonu\hastaneotomasyonu\obj\Debug\hastaneoto.KlinikEkleSil.resources
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\Hastane otomasyonu\hastaneotomasyonu\obj\Debug\hastaneoto.NakilGönder.resources
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\Hastane otomasyonu\hastaneotomasyonu\obj\Debug\hastaneoto.Properties.Resources.resources
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\Hastane otomasyonu\hastaneotomasyonu\obj\Debug\hastaneoto.RandevuAl.resources
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\Hastane otomasyonu\hastaneotomasyonu\obj\Debug\hastaneoto.RandevuİptalEt.resources
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\Hastane otomasyonu\hastaneotomasyonu\obj\Debug\hastaneoto.Röntgenİste.resources
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\Hastane otomasyonu\hastaneotomasyonu\obj\Debug\hastaneoto.TaburcuEt.resources
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\Hastane otomasyonu\hastaneotomasyonu\obj\Debug\hastaneoto.Tahlilİste.resources
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\Hastane otomasyonu\hastaneotomasyonu\obj\Debug\hastaneoto.YatışVer.resources
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\Hastane otomasyonu\hastaneotomasyonu\obj\Debug\hastaneoto.ÜyeOl.resources
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\Hastane otomasyonu\hastaneotomasyonu\obj\Debug\hastaneoto.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\Hastane otomasyonu\hastaneotomasyonu\obj\Debug\hastaneoto.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\Hastane otomasyonu\hastaneotomasyonu\obj\Debug\hastaneoto.csproj.CopyComplete
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\Hastane otomasyonu\hastaneotomasyonu\obj\Debug\hastaneoto.exe
+C:\Users\PC\Desktop\bilgisayar proğramcılığı\bp staj\Yazılım Yaşam Döngüsü Proje geliştirme Aşaması\Hastane otomasyonu\hastaneotomasyonu\obj\Debug\hastaneoto.pdb
+C:\Users\PC\Desktop\Hastane Otomasyon\Hastane otomasyonu\hastaneotomasyonu\obj\Debug\hastaneoto.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Hastane Otomasyon\Hastane otomasyonu\hastaneotomasyonu\obj\Debug\hastaneoto.AdminEkleSil.resources
+C:\Users\PC\Desktop\Hastane Otomasyon\Hastane otomasyonu\hastaneotomasyonu\obj\Debug\hastaneoto.AdminEkranı.resources
+C:\Users\PC\Desktop\Hastane Otomasyon\Hastane otomasyonu\hastaneotomasyonu\obj\Debug\hastaneoto.AdminGirişPaneli.resources
+C:\Users\PC\Desktop\Hastane Otomasyon\Hastane otomasyonu\hastaneotomasyonu\obj\Debug\hastaneoto.Anaekran.resources
+C:\Users\PC\Desktop\Hastane Otomasyon\Hastane otomasyonu\hastaneotomasyonu\obj\Debug\hastaneoto.DoktorEkle.resources
+C:\Users\PC\Desktop\Hastane Otomasyon\Hastane otomasyonu\hastaneotomasyonu\obj\Debug\hastaneoto.DoktorGirişEkranı.resources
+C:\Users\PC\Desktop\Hastane Otomasyon\Hastane otomasyonu\hastaneotomasyonu\obj\Debug\hastaneoto.Doktorrandevuları.resources
+C:\Users\PC\Desktop\Hastane Otomasyon\Hastane otomasyonu\hastaneotomasyonu\obj\Debug\hastaneoto.HastaGirişPaneli.resources
+C:\Users\PC\Desktop\Hastane Otomasyon\Hastane otomasyonu\hastaneotomasyonu\obj\Debug\hastaneoto.HastaneEkleSil.resources
+C:\Users\PC\Desktop\Hastane Otomasyon\Hastane otomasyonu\hastaneotomasyonu\obj\Debug\hastaneoto.KlinikEkleSil.resources
+C:\Users\PC\Desktop\Hastane Otomasyon\Hastane otomasyonu\hastaneotomasyonu\obj\Debug\hastaneoto.NakilGönder.resources
+C:\Users\PC\Desktop\Hastane Otomasyon\Hastane otomasyonu\hastaneotomasyonu\obj\Debug\hastaneoto.RandevuAl.resources
+C:\Users\PC\Desktop\Hastane Otomasyon\Hastane otomasyonu\hastaneotomasyonu\obj\Debug\hastaneoto.RandevuİptalEt.resources
+C:\Users\PC\Desktop\Hastane Otomasyon\Hastane otomasyonu\hastaneotomasyonu\obj\Debug\hastaneoto.Röntgenİste.resources
+C:\Users\PC\Desktop\Hastane Otomasyon\Hastane otomasyonu\hastaneotomasyonu\obj\Debug\hastaneoto.TaburcuEt.resources
+C:\Users\PC\Desktop\Hastane Otomasyon\Hastane otomasyonu\hastaneotomasyonu\obj\Debug\hastaneoto.Tahlilİste.resources
+C:\Users\PC\Desktop\Hastane Otomasyon\Hastane otomasyonu\hastaneotomasyonu\obj\Debug\hastaneoto.YatışVer.resources
+C:\Users\PC\Desktop\Hastane Otomasyon\Hastane otomasyonu\hastaneotomasyonu\obj\Debug\hastaneoto.ÜyeOl.resources
+C:\Users\PC\Desktop\Hastane Otomasyon\Hastane otomasyonu\hastaneotomasyonu\obj\Debug\hastaneoto.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Hastane Otomasyon\Hastane otomasyonu\hastaneotomasyonu\obj\Debug\hastaneoto.exe
+C:\Users\PC\Desktop\Hastane Otomasyon\Hastane otomasyonu\hastaneotomasyonu\obj\Debug\hastaneoto.pdb
+C:\Users\PC\Desktop\Hastane Otomasyon\Hastane otomasyonu\hastaneotomasyonu\obj\Debug\hastaneoto.Properties.Resources.resources
+C:\Users\PC\Desktop\Hastane Otomasyon\Hastane otomasyonu\hastaneotomasyonu\obj\Debug\hastaneoto.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Hastane Otomasyon\Hastane otomasyonu\hastaneotomasyonu\bin\Debug\anaekran.resx
+C:\Users\PC\Desktop\Hastane Otomasyon\Hastane otomasyonu\hastaneotomasyonu\bin\Debug\anaekran.cs
+C:\Users\PC\Desktop\Hastane Otomasyon\Hastane otomasyonu\hastaneotomasyonu\bin\Debug\anaekran.Designer.cs
+C:\Users\PC\Desktop\Hastane Otomasyon\Hastane otomasyonu\hastaneotomasyonu\bin\Debug\hastaneoto.exe.config
+C:\Users\PC\Desktop\Hastane Otomasyon\Hastane otomasyonu\hastaneotomasyonu\bin\Debug\hastaneoto.exe
+C:\Users\PC\Desktop\Hastane Otomasyon\Hastane otomasyonu\hastaneotomasyonu\bin\Debug\hastaneoto.pdb
+C:\Users\PC\Desktop\Hastane Otomasyon\Hastane otomasyonu\hastaneotomasyonu\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\PC\Desktop\Hastane Otomasyon\Hastane otomasyonu\hastaneotomasyonu\bin\Debug\Google.Protobuf.dll
+C:\Users\PC\Desktop\Hastane Otomasyon\Hastane otomasyonu\hastaneotomasyonu\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\PC\Desktop\Hastane Otomasyon\Hastane otomasyonu\hastaneotomasyonu\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\PC\Desktop\Hastane Otomasyon\Hastane otomasyonu\hastaneotomasyonu\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\PC\Desktop\Hastane Otomasyon\Hastane otomasyonu\hastaneotomasyonu\bin\Debug\System.Buffers.dll
+C:\Users\PC\Desktop\Hastane Otomasyon\Hastane otomasyonu\hastaneotomasyonu\bin\Debug\System.Memory.dll
+C:\Users\PC\Desktop\Hastane Otomasyon\Hastane otomasyonu\hastaneotomasyonu\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC\Desktop\Hastane Otomasyon\Hastane otomasyonu\hastaneotomasyonu\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC\Desktop\Hastane Otomasyon\Hastane otomasyonu\hastaneotomasyonu\bin\Debug\Google.Protobuf.pdb
+C:\Users\PC\Desktop\Hastane Otomasyon\Hastane otomasyonu\hastaneotomasyonu\bin\Debug\Google.Protobuf.xml
+C:\Users\PC\Desktop\Hastane Otomasyon\Hastane otomasyonu\hastaneotomasyonu\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\PC\Desktop\Hastane Otomasyon\Hastane otomasyonu\hastaneotomasyonu\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\PC\Desktop\Hastane Otomasyon\Hastane otomasyonu\hastaneotomasyonu\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\PC\Desktop\Hastane Otomasyon\Hastane otomasyonu\hastaneotomasyonu\bin\Debug\System.Buffers.xml
+C:\Users\PC\Desktop\Hastane Otomasyon\Hastane otomasyonu\hastaneotomasyonu\bin\Debug\System.Memory.xml
+C:\Users\PC\Desktop\Hastane Otomasyon\Hastane otomasyonu\hastaneotomasyonu\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC\Desktop\Hastane Otomasyon\Hastane otomasyonu\hastaneotomasyonu\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC\Desktop\Hastane Otomasyon\Hastane otomasyonu\hastaneotomasyonu\obj\Debug\hastaneoto.csproj.CopyComplete

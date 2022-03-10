@@ -1,0 +1,278 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{05681D47-9931-4A3A-8BB9-3534E05FAB90}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>hastaneoto</RootNamespace>
+    <AssemblyName>hastaneoto</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Crypto, Version=1.8.5.0, Culture=neutral, PublicKeyToken=0e99375e54769942">
+      <HintPath>packages\BouncyCastle.1.8.5\lib\BouncyCastle.Crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Protobuf, Version=3.14.0.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604, processorArchitecture=MSIL">
+      <HintPath>packages\Google.Protobuf.3.14.0\lib\net45\Google.Protobuf.dll</HintPath>
+    </Reference>
+    <Reference Include="K4os.Compression.LZ4, Version=1.1.11.0, Culture=neutral, PublicKeyToken=2186fa9121ef231d, processorArchitecture=MSIL">
+      <HintPath>packages\K4os.Compression.LZ4.1.1.11\lib\net46\K4os.Compression.LZ4.dll</HintPath>
+    </Reference>
+    <Reference Include="K4os.Compression.LZ4.Streams, Version=1.1.11.0, Culture=neutral, PublicKeyToken=2186fa9121ef231d, processorArchitecture=MSIL">
+      <HintPath>packages\K4os.Compression.LZ4.Streams.1.1.11\lib\net46\K4os.Compression.LZ4.Streams.dll</HintPath>
+    </Reference>
+    <Reference Include="K4os.Hash.xxHash, Version=1.0.6.0, Culture=neutral, PublicKeyToken=32cd54395057cec3, processorArchitecture=MSIL">
+      <HintPath>packages\K4os.Hash.xxHash.1.0.6\lib\net46\K4os.Hash.xxHash.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Configuration.Install" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Memory.4.5.3\lib\netstandard2.0\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Numerics.Vectors.4.4.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=4.0.4.1, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Runtime.CompilerServices.Unsafe.4.5.2\lib\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdminEkleSil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminEkleSil.Designer.cs">
+      <DependentUpon>AdminEkleSil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminEkranı.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminEkranı.Designer.cs">
+      <DependentUpon>AdminEkranı.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminGirişPaneli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminGirişPaneli.Designer.cs">
+      <DependentUpon>AdminGirişPaneli.cs</DependentUpon>
+    </Compile>
+    <Compile Include="anaekran.cs">
+      <SubType>Form</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="anaekran.Designer.cs">
+      <DependentUpon>anaekran.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="DoktorEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DoktorEkle.Designer.cs">
+      <DependentUpon>DoktorEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DoktorGirişEkranı.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DoktorGirişEkranı.Designer.cs">
+      <DependentUpon>DoktorGirişEkranı.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Doktorrandevuları.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Doktorrandevuları.Designer.cs">
+      <DependentUpon>Doktorrandevuları.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar.cs" />
+    <Compile Include="HastaGirişPaneli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HastaGirişPaneli.Designer.cs">
+      <DependentUpon>HastaGirişPaneli.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HastaneEkleSil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HastaneEkleSil.Designer.cs">
+      <DependentUpon>HastaneEkleSil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KlinikEkleSil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KlinikEkleSil.Designer.cs">
+      <DependentUpon>KlinikEkleSil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NakilGönder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NakilGönder.Designer.cs">
+      <DependentUpon>NakilGönder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="qq.cs" />
+    <Compile Include="RandevuAl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RandevuAl.Designer.cs">
+      <DependentUpon>RandevuAl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RandevuİptalEt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RandevuİptalEt.Designer.cs">
+      <DependentUpon>RandevuİptalEt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Röntgenİste.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Röntgenİste.Designer.cs">
+      <DependentUpon>Röntgenİste.cs</DependentUpon>
+    </Compile>
+    <Compile Include="sqlbaglanti.cs" />
+    <Compile Include="TaburcuEt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TaburcuEt.Designer.cs">
+      <DependentUpon>TaburcuEt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tahlilİste.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tahlilİste.Designer.cs">
+      <DependentUpon>Tahlilİste.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YatışVer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YatışVer.Designer.cs">
+      <DependentUpon>YatışVer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ÜyeOl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ÜyeOl.Designer.cs">
+      <DependentUpon>ÜyeOl.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AdminEkleSil.resx">
+      <DependentUpon>AdminEkleSil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminEkranı.resx">
+      <DependentUpon>AdminEkranı.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminGirişPaneli.resx">
+      <DependentUpon>AdminGirişPaneli.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="anaekran.resx">
+      <DependentUpon>anaekran.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DoktorEkle.resx">
+      <DependentUpon>DoktorEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DoktorGirişEkranı.resx">
+      <DependentUpon>DoktorGirişEkranı.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Doktorrandevuları.resx">
+      <DependentUpon>Doktorrandevuları.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HastaGirişPaneli.resx">
+      <DependentUpon>HastaGirişPaneli.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HastaneEkleSil.resx">
+      <DependentUpon>HastaneEkleSil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KlinikEkleSil.resx">
+      <DependentUpon>KlinikEkleSil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NakilGönder.resx">
+      <DependentUpon>NakilGönder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RandevuAl.resx">
+      <DependentUpon>RandevuAl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RandevuİptalEt.resx">
+      <DependentUpon>RandevuİptalEt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Röntgenİste.resx">
+      <DependentUpon>Röntgenİste.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TaburcuEt.resx">
+      <DependentUpon>TaburcuEt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tahlilİste.resx">
+      <DependentUpon>Tahlilİste.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YatışVer.resx">
+      <DependentUpon>YatışVer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ÜyeOl.resx">
+      <DependentUpon>ÜyeOl.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
